@@ -1,0 +1,8 @@
+https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup#method-1-rclocal
+>> Method 2: Autostart
+
+
+https://raspberry-projects.com/pi/pi-operating-systems/raspbian/auto-running-programs-gui
+
+https://www.raspberrypi.org/forums/viewtopic.php?p=344408#p344408
+
