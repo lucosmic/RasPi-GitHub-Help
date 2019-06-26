@@ -41,6 +41,12 @@ git status
 # Pull from the repo
 git pull origin master
 ```
+### If the Existing Repo has Submodules...
+You will need to check out the submodules by also typing:
+```
+git submodule update --init
+```
+
 
 ## Creating a New Branch
 * To create a new branch of the code: (TODO)
